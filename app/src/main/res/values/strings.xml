@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Base MVP</string>
+    <string name="something_wrong_message">Что-то пошло не так. Попробуйте еще раз.</string>
+</resources>
